@@ -10,9 +10,9 @@ print  x+y
 
 #  taking input from  user in python 2
 
-n1=raw_input("type any number :   ")
+n1=raw_input("type any number1 :   ")
 
-n2=raw_input("type any number :   ")
+n2=raw_input("type any number2 :   ")
 
 z=int(n1)+int(n2)
 time.sleep(2)
